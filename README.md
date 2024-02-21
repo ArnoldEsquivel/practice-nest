@@ -1,4 +1,4 @@
-**Comandos para acciones basicas con Nest
+##Comandos para acciones basicas con Nest
 
 Este comando nos ayuda a crear un controlador, esto crea el controlador y test de products adentro de la carpeta /controllers
 

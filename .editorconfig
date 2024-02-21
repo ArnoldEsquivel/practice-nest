@@ -1,0 +1,16 @@
+# Este archivo nos ayuda a mantener la misma configuracion en el editor de codigo
+root = true
+
+[*]
+charset = utf-8 # Codificacion de caracteres
+indent_style = space # Tipo de indentacion
+indent_size = 2 # Tamaño de indentacion
+insert_final_newline = true # Insertar nueva linea al final del archivo
+trim_trailing_whitespace = true # Eliminar espacios en blanco al final de la linea
+
+[*.ts]
+quote_type = single # Tipo de comillas
+
+[*.md]
+max_line_length = off # Desactivar limite de caracteres por linea
+trim_trailing_whitespace = false # Desactivar eliminacion de espacios en blanco al final de la linea
